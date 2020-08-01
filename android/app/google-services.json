@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306058147855",
+    "firebase_url": "https://gappa-goshti-cafe.firebaseio.com",
+    "project_id": "gappa-goshti-cafe",
+    "storage_bucket": "gappa-goshti-cafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306058147855:android:1fd31f8e3d25d6ab408b7a",
+        "android_client_info": {
+          "package_name": "com.gapagoshti.gappa_gosti_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306058147855-1m6d94msfmck0s4dja8ttde5s5au33vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmNOMVdrZ0_elOBAh2ou40eyypa9sdmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306058147855-1m6d94msfmck0s4dja8ttde5s5au33vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
