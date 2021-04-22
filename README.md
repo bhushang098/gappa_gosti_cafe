@@ -2,4 +2,4 @@
 
 A new Flutter application able to manage restro 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of main page](https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg1.jpg)
