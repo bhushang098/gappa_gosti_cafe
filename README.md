@@ -1,16 +1,18 @@
-# gappa_gosti_cafe
+# Gappa Goshti Cafe
 
-A new Flutter application able to manage restro 
+A new Flutter application is able to manage restaurant dishes and manage customer orders.
 
-# 1 
-![Image of main page](https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg1.jpg) 
+### Tech Used :
+    Flutter SDK
+    Android Studio
+    Firebase Firestore
+    
+    
+    
+<div display: grid>
+<img src="https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg1.jpg" width="250">
+<img src="https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg2.jpg" width="250">
+<img src="https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg3.jpg" width="250">
+<img src="https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg4.jpg" width="250">
+</div>
 
-# 2
-![Image 2](https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg2.jpg)
-
-# 3
-
-![Image 3](https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg3.jpg) 
-
-# 4
-![Image 4](https://github.com/bhushang098/gappa_gosti_cafe/blob/master/gg4.jpg)
